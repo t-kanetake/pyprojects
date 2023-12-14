@@ -1,4 +1,5 @@
 # project: email parser
+# created: 12/10/2023
 
 def main():
   print("Welcome to the email slicer." + "\n")
