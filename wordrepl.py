@@ -1,4 +1,5 @@
 # project: word replacer
+# created: 12/10/2023
 
 # function for replacing word in statement in variable str
 def main():
