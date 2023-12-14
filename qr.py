@@ -1,4 +1,5 @@
 # project: qr code
+# created: 12/10/2023
 
 import qrcode
 
