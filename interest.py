@@ -1,4 +1,5 @@
 # project: interest rate calculator
+# created: 12/10/2023
 
 welcome_message = False
 
