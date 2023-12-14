@@ -1,4 +1,5 @@
 # project: email sender
+# created: 12/10/2023
 
 # imports libraries necessary for function
 from email.message import EmailMessage
