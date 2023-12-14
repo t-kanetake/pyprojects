@@ -1,4 +1,5 @@
 # project: binary search
+# created: 12/10/2023
 
 def binary_search(list, element):
   # initializes indices and steps
