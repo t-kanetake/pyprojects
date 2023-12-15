@@ -18,4 +18,4 @@
 
 # How I plan to proceed with Python
 
-- I plan on using Python in back-end use cases. Additionally, I plan on learning machine learning in my spare time. With this knowledge, my goal is to become a full-fledged full-stack developer along with other languages and concepts under my belt.
+- I plan on using Python in back-end use cases. Additionally, I plan on studying machine learning in my spare time. With this knowledge, my goal is to become a full-fledged full-stack developer along with other languages and concepts under my belt.
