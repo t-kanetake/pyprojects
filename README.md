@@ -1,14 +1,20 @@
 # How I began these projects
 
-My goal with these projects is to build my knowledge and mastery of Python.
-
-  - These projects are not my own. They come from this [FreeCodeCamp video](https://www.youtube.com/watch?v=pdy3nh1tn6I&t=3s).
+My goal with these projects is to build my knowledge and mastery of Python, simultaneously building a portfolio to display my ability and proficiency.
 
 # How to navigate these projects
-- There is no specific order to these projects as they do not correlate with each other.
+- **twentybeginner** - Projects from the FreeCodeCamp video: 20 Beginner Python Projects
+-   - _Instructor: Tomi Tokko_
+- **fivegames** - Projects from the FreeCodeCamp video: Learn Python by Building Five Games - Full Course.
+    - _Instructors: Christian Thompson, Tim Ruscica, and Keith Galli_
+- **threemini** - Projects from the Tech with Tim video: 3 Mini Python Projects
+    - _Instructors: Tim Ruscica_ 
 - In each file, I provided comments on what project you are viewing and what each line does.
 
-# Why I built the projects this way
-- I strive to condense the code in a readable manner that isn't too cryptic whilst also retaining the readability of Python's syntax.
-- I also try to keep in mind the time complexity, whilst also seeking to retain key features of the code.
-- With these projects and more to come in the future, I plan to either become a back-end or full-stack developer. That is why Python is my beginning language. As of now, I am unsure if I want to pursue front-end.
+# Why I chose to build these projects
+
+I chose projects that served my interests, have practical usage in the real world, and give the best practical use cases for syntax and the best understanding of the Python programming language.
+
+# How I plan to proceed with Python
+
+After a firm understanding has been established, I plan on using Python in back-end use cases. Additionally, I plan on learning machine learning use cases in my spare time. With this knowledge, my goal is to become a full-fledged full-stack developer along with other languages and concepts under my belt.
