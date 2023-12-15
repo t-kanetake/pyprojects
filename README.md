@@ -4,7 +4,7 @@
 
 # How to navigate these projects
 - **twentybeginner** - Projects from the FreeCodeCamp video: 20 Beginner Python Projects
--   - _Instructor: Tomi Tokko_
+    - _Instructor: Tomi Tokko_
 - **fivegames** - Projects from the FreeCodeCamp video: Learn Python by Building Five Games - Full Course.
     - _Instructors: Christian Thompson, Tim Ruscica, and Keith Galli_
 - **threemini** - Projects from the Tech with Tim video: 3 Mini Python Projects
