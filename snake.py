@@ -89,7 +89,7 @@ while True:
         new_segment.penup()
         segments.append(new_segment)
 
-    # move segments first in inverse order
+    # move segments sequentially to form body in inverse order
     for index in range(len(segments)-1, 0, -1):
         x = segments[index - 1].xcor()
         y = segments[index - 1].ycor()
@@ -102,7 +102,7 @@ while True:
         segments[0].goto(x, y)
 
 
-    # constantly call move function to move the snake
+    # constantly calls move function to move the snake
     move()
 
     # set a delay so the game is playable
