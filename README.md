@@ -5,7 +5,7 @@
 # How to navigate these projects
 - **twentypy** - Projects from the FreeCodeCamp video: [20 Beginner Python Projects](https://www.youtube.com/watch?v=pdy3nh1tn6I)
     - _Instructor(s): [Tomi Tokko](https://www.youtube.com/@CodeWithTomi)_
-- **games** - Project from these videos: [The ultimate introduction to PyGame](https://www.youtube.com/watch?v=AY9MnQ4x3zk&pp=ygUWbGVhcm4gcHlnYW1lIGluIHB5dGhvbg%3D%3D), [Python Game Programming Tutorial: Pong Part 1 Getting Started](https://www.youtube.com/watch?v=LH8WgrUWG_I&list=PLlEgNdBJEO-kXk2PyBxhSmo84hsO3HAz2), [Python Game Programming Tutorial: Snake Game Part 1](https://www.youtube.com/watch?v=BP7KMlbvtOo&list=PLlEgNdBJEO-n8k9SR49AshB9j7b5Iw7hZ)
+- **games** - Project from these videos: [The ultimate introduction to PyGame](https://www.youtube.com/watch?v=AY9MnQ4x3zk&pp=ygUWbGVhcm4gcHlnYW1lIGluIHB5dGhvbg%3D%3D), [Pong Game by TokyoEdtech](https://www.youtube.com/watch?v=LH8WgrUWG_I&list=PLlEgNdBJEO-kXk2PyBxhSmo84hsO3HAz2), [Snake Game by TokyoEdtech](https://www.youtube.com/watch?v=BP7KMlbvtOo&list=PLlEgNdBJEO-n8k9SR49AshB9j7b5Iw7hZ)
     - _Instructor(s): [Clear Code](https://www.youtube.com/@ClearCode), [Christian Thompson](https://www.youtube.com/@TokyoEdTech)_
       
 - In each file, I provided comments on what project you are viewing and what each line does.
