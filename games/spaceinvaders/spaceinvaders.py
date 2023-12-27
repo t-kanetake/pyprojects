@@ -3,13 +3,16 @@
 
 import os
 import pygame, sys
+from player import Player
 
 class Game:
     def __init__(self):
-        pass
-    
+        player_sprite = Player((300, 300))
+        self.player = pygame.sprite.GroupSingle(player_sprite)
+        
+
     def run(self):
-        pass
+        self.player.draw(screen)
 
 if __name__ == "main":
     # initialize pygame
