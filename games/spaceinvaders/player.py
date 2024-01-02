@@ -17,7 +17,7 @@ class Player(pygame.sprite.Sprite):
         self.ready = True
         self.laser_time = 0
         self.laser_cooldown = 600
-        self.lasers = pygame.sprite.Group()
+        self.lasers = pygame.sprite.Group() 
 
 # keyboard input
     def get_input(self):
