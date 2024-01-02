@@ -1,6 +1,7 @@
 import os   
 import pygame
 from laser import Laser
+from aesthetic import get_laser_sfx
 
 # player characteristics
 class Player(pygame.sprite.Sprite):
@@ -17,7 +18,13 @@ class Player(pygame.sprite.Sprite):
         self.ready = True
         self.laser_time = 0
         self.laser_cooldown = 600
-        self.lasers = pygame.sprite.Group() 
+        self.lasers = pygame.sprite.Group()
+
+        self.get_image_path = lambda: image_path
+
+        self.get_laser = get_laser_sfx()
+        self.laser_sound = pygame.mixer.Sound(self.get_laser)
+        self.laser_sound.set_volume(0.07)
 
 # keyboard input
     def get_input(self):
@@ -32,6 +39,7 @@ class Player(pygame.sprite.Sprite):
             self.shoot_laser()
             self.ready = False
             self.laser_time = pygame.time.get_ticks()
+            self.laser_sound.play()
 
 # laser recharge
     def recharge(self):
@@ -49,7 +57,7 @@ class Player(pygame.sprite.Sprite):
 
 # align laser to shoot from player position
     def shoot_laser(self):
-        self.lasers.add(Laser(self.rect.center, 8, self.rect.bottom))
+        self.lasers.add(Laser(self.rect.center, -8, self.rect.bottom))
 
 # call player functions
     def update(self):

@@ -16,5 +16,5 @@ class Laser(pygame.sprite.Sprite):
 
     # laser movement and erasure
     def update(self):
-        self.rect.y -= self.speed
+        self.rect.y += self.speed
         self.destroy()
