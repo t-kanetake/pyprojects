@@ -1,6 +1,8 @@
 # project: space invaders
 # created: 12/27/2023
 
+"""this file is nested within other directories which is why the os module is used in inherited files"""
+
 import pygame, sys
 from player import Player
 import obstacle
