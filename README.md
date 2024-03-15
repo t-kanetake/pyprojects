@@ -5,6 +5,7 @@
 # How to navigate these projects
 - **twentypy** - Projects from the FreeCodeCamp video: [20 Beginner Python Projects](https://www.youtube.com/watch?v=pdy3nh1tn6I)
     - _Instructor(s): [Tomi Tokko](https://www.youtube.com/@CodeWithTomi)_
+- **miscprojects** - Projects from various resources for learning.
 - **games** - Project from these videos: [Space Invaders by Clear Code](https://www.youtube.com/watch?v=o-6pADy5Mdg), [Runner Game by Clear Code](https://www.youtube.com/watch?v=AY9MnQ4x3zk&pp=ygUWbGVhcm4gcHlnYW1lIGluIHB5dGhvbg%3D%3D), [Pong Game by TokyoEdtech](https://www.youtube.com/watch?v=LH8WgrUWG_I&list=PLlEgNdBJEO-kXk2PyBxhSmo84hsO3HAz2), [Snake Game by TokyoEdtech](https://www.youtube.com/watch?v=BP7KMlbvtOo&list=PLlEgNdBJEO-n8k9SR49AshB9j7b5Iw7hZ)
     - _Instructor(s): [Clear Code](https://www.youtube.com/@ClearCode), [Christian Thompson](https://www.youtube.com/@TokyoEdTech)_
       
